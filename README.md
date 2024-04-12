@@ -8,9 +8,9 @@ At Tech Ocean, we are passionate about technology and creativity. Our team of ex
 
 ## Services
 
-- **Web Development:** From simple landing pages to complex web applications, we create responsive and scalable websites using the latest technologies.
+- **Web Development:** From simple landing pages to complex web applications, we create responsive and scalable websites using the latest technologies such as PHP, MySQL, and ASP.NET.
 
-- **App Development:** Whether it's iOS, Android, or cross-platform development, we build customized mobile applications that enhance user experience and drive business growth.
+- **App Development:** we build customized mobile applications using Flutter, we build customized mobile applications that enhance user experience and drive business growth.
 
 ## Live Demos
 
@@ -23,8 +23,9 @@ Check out our live web development demo websites:
 
 Ready to take your project to the next level? Contact us today to discuss your ideas and goals.
 
-✉️ [work.sarthapatel@gmail.com]
-📞 [+91 93746 26600]
-🌐 [Tech Ocean](https://thetechocean.me)
+- ✉️ [work.sarthapatel@gmail.com]
+- 📞 [+91 93746 26600]
+- 🌐 [Tech Ocean](https://thetechocean.me)
 
 Let's build something amazing together!
+
